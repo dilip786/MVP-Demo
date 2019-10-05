@@ -1,6 +1,6 @@
 # RecyclerView With Images - MVP architecture
 
-  Fetching images from https://pixabay.com and showing on gridview , MVP architecture, Recylerview, Retrofit & Kotlin
+The main purpose of this app is retrieving from https://pixabay.com & showing on RecyclerView using Retrofit for doing HTTP request & GSON lib for parsing.
 
 ![rsz_1mpv_](https://user-images.githubusercontent.com/10658016/65838925-d64a4f00-e325-11e9-84a7-a12611de80cb.png)
 ![rsz_mvp_1](https://user-images.githubusercontent.com/10658016/65838926-d6e2e580-e325-11e9-863b-66dc1e13a26f.png)
