@@ -35,9 +35,7 @@ implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
 ### Key Points
 
 - The Presenter directly talking to Interface and the view implements the interface to get the information.
-
 - The presenter doesn’t know which view it is taking to, it’s just transmit the data and view will receive data.
-
 - View knows about which presenter is taking to.
 
 
